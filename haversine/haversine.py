@@ -16,3 +16,4 @@ def haversine(lon1, lat1, lon2, lat2):
     c = 2. * np.arcsin(np.sqrt(a)) 
     km = 6367. * c
     return km
+
