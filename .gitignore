@@ -1,6 +1,8 @@
 .idea/
 data
 *.pyc
+*.whl
+*.gz
 ## NEVER COMMIT THE data DIRECTORY!
 data
 
