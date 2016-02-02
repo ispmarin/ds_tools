@@ -5,3 +5,5 @@ wheel
 virtualenv
 pip
 virtualenvwrapper
+snakebite
+pyhive
