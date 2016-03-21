@@ -1,5 +1,6 @@
 .idea/
 data
+*.out
 *.pyc
 *.whl
 *.gz
