@@ -1,7 +1,6 @@
 #!/bin/env python2.7
 # Ivan Marin
-# Vivo Data Labs
-# ivan.smarin@telefonica.com
+# ispmarin@gmail.com
 # Converting a hive dump to a semi comma separated value file
 # In the case that the fields have a comma value
 # The input file should be a dump from a query in hive like

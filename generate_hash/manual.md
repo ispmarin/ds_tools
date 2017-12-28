@@ -1,8 +1,6 @@
 ```
 Ivan Marin
-Vivo Data Labs
-ivan.smarin@telefonica.com
-2016-02-18
+ispmarin@gmail.com
 ```
 # Gerador de Hashes
 O script Python gera hashes usando o algoritmo [SHA-256](https://en.wikipedia.org/wiki/SHA-2)

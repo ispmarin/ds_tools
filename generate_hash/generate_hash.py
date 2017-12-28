@@ -1,8 +1,7 @@
 """
 Ivan Marin
-Vivo Data Labs
-ivan.smarin@telefonica.com
-2016-03-18
+ispmarin@gmail.com
+
 
 Generate SHA 256 hashes from fields in a CSV file.
 """

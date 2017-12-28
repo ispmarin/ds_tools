@@ -1,7 +1,5 @@
 # Ivan Marin
-# Vivo Data Labs
-# ivan.smarin@telefonica.com
-# 2016-01-11
+# ispmarin@gmail.com
 
 import numpy as np
 
